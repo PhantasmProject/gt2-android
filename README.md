@@ -1,3 +1,5 @@
+[🇬🇧 English](#english) | [🇷🇺 Русский](#русский)
+
 <div align="center">
 
 <img src="assets/gt2-android-logo.png" alt="GT2 Android logo" width="420">
