@@ -1,0 +1,41 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+
+# CMake / native build outputs
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+Makefile
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+*.pdb
+
+# Generated packages and local game data
+*.apk
+*.aab
+*.iso
+*.bin
+*.cue
+*.chd
+*.pbp
+*.mcd
+*.mcr
+gamedata/
+game-data/
+saves/
+logs/
+
+# IDE / editor
+.vscode/
+*.swp
+*.swo
