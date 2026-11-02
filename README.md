@@ -6,7 +6,7 @@
 
 # GT2 Android
 
-**Gran Turismo 2 — Android touchscreen adaptation**
+**Gran Turismo 2 port for Android, based on the original VR project and adapted for touchscreen devices.**
 
 [![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Architecture](https://img.shields.io/badge/architecture-ARM64-168BFF?style=for-the-badge)](#)
@@ -92,7 +92,7 @@ See [LICENSE](LICENSE) for the license text included with the supplied source ar
 
 ### О проекте
 
-**GT2 Android** — независимая адаптация Android/VR-кодовой базы оригинального проекта **Gran Turismo 2 PC & VR**, но с другой целью: **запуск на Android-смартфонах и планшетах с сенсорным управлением**.
+**Порт Gran Turismo 2 для Android, основанный на оригинальном VR-проекте и адаптированный для устройств с сенсорным экраном.**
 
 Основная задача — адаптировать игровой процесс и интерфейс под управление касаниями, одновременно удаляя VR-функциональность и связанные с ней зависимости. В результате должно получиться обычное Android-приложение с плоским изображением на экране, **а не VR-приложение**.
 
