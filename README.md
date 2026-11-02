@@ -6,7 +6,7 @@
 
 # GT2 Android
 
-**Gran Turismo 2 port for Android, based on the original project and adapted for touchscreen devices.**
+**Gran Turismo 2 Android Port, featuring touchscreen controls and a mobile-optimized interface.**
 
 [![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Architecture](https://img.shields.io/badge/architecture-ARM64-168BFF?style=for-the-badge)](#)
