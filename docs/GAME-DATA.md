@@ -14,8 +14,8 @@ It is a separate archive from the Android source ZIP and APK.
 - Your own supported Gran Turismo 2 disc image(s).
 - The **GT2 Preparing Data.zip** toolkit from this repository package or the [latest release](https://github.com/PhantasmProject/gt2-android/releases/latest).
 
-The tool supports complete 2352-byte-sector images for supported NTSC-U and PAL discs, including the European SCES-02380 Simulation Disc and the combined mod disc identified in the release notes. Standard 2048-byte ISO images are not suitable for the full data path because XA audio/video sectors are missing. The file picker accepts BIN, CUE, ISO, ZIP and 7Z inputs; the underlying disc validation still determines whether the image is supported.
-
+Supported discs: The European versions of Arcade (SCES_023.80) and Simulation (SCES_123.80) are officially supported.
+Original game disc image in .bin or .iso format.
 ## Step-by-step
 
 1. Extract `GT2 Preparing Data.zip` into its own folder on your Windows PC.
