@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34643970/README.md)<div align="center">
+<div align="center">
 
 <img src="assets/gt2-android-logo.png" alt="GT2 Android" width="420">
 
@@ -12,6 +12,8 @@
 [![Release](https://img.shields.io/badge/Latest_release-v0.9.5-orange?style=for-the-badge)](https://github.com/PhantasmProject/gt2-android/releases/latest)
 
 *Bringing the classic Gran Turismo 2 experience to Android touchscreens.*
+
+**[🇬🇧 English](#english)** · **[🇷🇺 Русский](#russian)**
 
 [ **Download latest release** ](https://github.com/PhantasmProject/gt2-android/releases/latest) ·
 [ **Installation guide** ](docs/INSTALLATION.md) ·
@@ -37,7 +39,11 @@
 
 ---
 
+<a id="english"></a>
+
 ## 🇬🇧 English
+
+[⬆ 🇷🇺 Перейти к русской версии](#russian)
 
 ### About
 
@@ -50,7 +56,6 @@
 - Customizable HUD: move and resize on-screen elements.
 - Touch-button vibration and in-game rumble feedback.
 - Live control and interface settings, applied without restarting the game.
-- Bluetooth and USB gamepad/keyboard support alongside touch controls.
 - In-game graphics, sound and controls settings.
 
 ### Screenshots
@@ -141,7 +146,11 @@ See [LICENSE](LICENSE). The included license applies only to the code and materi
 
 ---
 
+<a id="russian"></a>
+
 ## 🇷🇺 Русский
+
+[⬆ 🇬🇧 Switch to English](#english)
 
 ### О проекте
 
@@ -154,7 +163,6 @@ See [LICENSE](LICENSE). The included license applies only to the code and materi
 - Настраиваемый HUD: перемещение и изменение размера экранных элементов.
 - Вибрация при нажатии сенсорных кнопок, столкновениях и движении по дорожному покрытию.
 - Применение настроек управления и интерфейса без перезапуска игры.
-- Поддержка Bluetooth- и USB-геймпадов, а также клавиатуры.
 - Встроенные настройки графики, звука и управления.
 
 ### Скриншоты
