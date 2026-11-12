@@ -8,7 +8,7 @@ It installs the pinned toolchain when needed, imports the source ZIP, invokes `s
 
 ## 1. What you need
 
-- Windows 10/11 with WSL2 and Ubuntu (x86_64).
+- Windows 10/11 with WSL3 and Ubuntu (x86_64).
 - Internet access for the first setup and dependency downloads.
 - The Android source archive named **`gt2-android.zip`**.
 - The helper script **`setup-and-build-gt2.sh`**.
