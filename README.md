@@ -9,7 +9,7 @@
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](docs/ANDROID.md)
 [![ARM64](https://img.shields.io/badge/Architecture-ARM64-168BFF?style=for-the-badge)](#requirements)
 [![Vulkan](https://img.shields.io/badge/Graphics-Vulkan%201.3-7B61FF?style=for-the-badge)](#requirements)
-[![Release](https://img.shields.io/badge/Latest_release-v0.9.5-orange?style=for-the-badge)](https://github.com/PhantasmProject/gt2-android/releases/latest)
+[![Release](https://img.shields.io/badge/Latest_release-v0.9.5.2-orange?style=for-the-badge)](https://github.com/PhantasmProject/gt2-android/releases/latest)
 
 *Bringing the classic Gran Turismo 2 experience to Android touchscreens.*
 
