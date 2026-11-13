@@ -253,9 +253,4 @@ Gran Turismo, Gran Turismo 2 и связанные с ними товарные 
 
 ---
 
-<div align="center">
-
-**Built with respect for the original work. / Создано с уважением к оригинальной работе.**
-
-</div>
 
